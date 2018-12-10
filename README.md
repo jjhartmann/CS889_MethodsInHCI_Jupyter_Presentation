@@ -6,9 +6,9 @@ The slidesshow feature of Jupyter along with the plugin RISE is used to create a
  
 
 ## Instalation
-1. Install Aanacado package manager https://www.anaconda.com/
-2. Create environment for with Python3 and R
-3. Install all dependencies (note: possible issues between the built in R package manager and Conda may arise, in such a case try defaulting to Conda packages)
+1. Install Aanacada package manager https://www.anaconda.com/
+2. Create an environment containing both Python3 and R
+3. Install all dependencies (note: possible issues between the built in R package manager and Conda may come about, in such a case try defaulting to Conda packages)
 4. Install RISE (https://github.com/damianavila/RISE) of interactive presentation capabilities.
 
 ## Using R magic cells on a python kernel. 
