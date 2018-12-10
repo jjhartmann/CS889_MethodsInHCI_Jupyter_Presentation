@@ -1,0 +1,37 @@
+Timestamp,pid,Technique,scaleInvariant,Ordered ,easyToLearn,comfortable,easyToUse,enjoyedOverall
+2018/11/28 10:24:43 pm GMT,1,Linear Menu,Not Scale Invariant,Ordered,Agree,Strongly Agree,Strongly Agree,Neither Agree nor DIsagree
+2018/11/28 10:29:52 pm GMT,1,Cube Menu,Not Scale Invariant,Ordered,Neither Agree nor DIsagree,Agree,Neither Agree nor DIsagree,Neither Agree nor DIsagree
+2018/11/28 10:40:30 pm GMT,1,Cube Menu,Scale Invariant,Unordered,Disagree,Agree,Disagree,Neither Agree nor DIsagree
+2018/11/28 10:45:13 pm GMT,1,Cube Menu,Scale Invariant,Ordered,Agree,Agree,Agree,Neither Agree nor DIsagree
+2018/11/28 10:54:09 pm GMT,1,Cube Menu,Not Scale Invariant,Unordered,Neither Agree nor DIsagree,Neither Agree nor DIsagree,Disagree,Neither Agree nor DIsagree
+2018/11/28 11:02:21 pm GMT,1,Linear Menu,Not Scale Invariant,Unordered,Neither Agree nor DIsagree,Agree,Neither Agree nor DIsagree,Disagree
+2018/11/28 11:16:51 pm GMT,2,Cube Menu,Not Scale Invariant,Ordered,Agree,Agree,Agree,Agree
+2018/11/28 11:23:03 pm GMT,2,Cube Menu,Scale Invariant,Ordered,Neither Agree nor DIsagree,Neither Agree nor DIsagree,Agree,Neither Agree nor DIsagree
+2018/11/28 11:26:43 pm GMT,2,Linear Menu,Not Scale Invariant,Ordered,Strongly Agree,Strongly Agree,Strongly Agree,Agree
+2018/11/28 11:35:21 pm GMT,2,Linear Menu,Not Scale Invariant,Unordered,Disagree,Neither Agree nor DIsagree,Agree,Neither Agree nor DIsagree
+2018/11/28 11:50:05 pm GMT,2,Cube Menu,Scale Invariant,Unordered,Disagree,Disagree,Neither Agree nor DIsagree,Neither Agree nor DIsagree
+2018/11/29 12:04:17 am GMT,2,Cube Menu,Not Scale Invariant,Unordered,Neither Agree nor DIsagree,Agree,Neither Agree nor DIsagree,Agree
+2018/11/29 8:18:28 pm GMT,3,Cube Menu,Scale Invariant,Ordered,Strongly Agree,Agree,Agree,Agree
+2018/11/29 8:25:18 pm GMT,3,Linear Menu,Not Scale Invariant,Unordered,Strongly Agree,Agree,Neither Agree nor DIsagree,Neither Agree nor DIsagree
+2018/11/29 8:29:21 pm GMT,3,Cube Menu,Not Scale Invariant,Ordered,Strongly Agree,Agree,Agree,Agree
+2018/11/29 8:40:07 pm GMT,3,Cube Menu,Not Scale Invariant,Unordered,Agree,Neither Agree nor DIsagree,Disagree,Disagree
+2018/11/29 8:44:01 pm GMT,3,Linear Menu,Not Scale Invariant,Ordered,Strongly Agree,Agree,Strongly Agree,Agree
+2018/11/29 8:54:04 pm GMT,3,Cube Menu,Scale Invariant,Unordered,Strongly Agree,Neither Agree nor DIsagree,Neither Agree nor DIsagree,Disagree
+2018/11/29 9:52:47 pm GMT,4,Linear Menu,Not Scale Invariant,Unordered,Neither Agree nor DIsagree,Agree,Neither Agree nor DIsagree,Agree
+2018/11/29 10:07:16 pm GMT,4,Cube Menu,Not Scale Invariant,Unordered,Strongly Disagree,Strongly Disagree,Disagree,Disagree
+2018/11/29 10:11:39 pm GMT,4,Cube Menu,Scale Invariant,Ordered,Strongly Agree,Disagree,Agree,Agree
+2018/11/29 10:24:01 pm GMT,4,Cube Menu,Scale Invariant,Unordered,Neither Agree nor DIsagree,Disagree,Neither Agree nor DIsagree,Neither Agree nor DIsagree
+2018/11/29 10:28:20 pm GMT,4,Cube Menu,Not Scale Invariant,Ordered,Agree,Neither Agree nor DIsagree,Agree,Agree
+2018/11/29 10:31:31 pm GMT,4,Linear Menu,Not Scale Invariant,Ordered,Agree,Strongly Agree,Strongly Agree,Strongly Agree
+2018/11/30 8:05:53 pm GMT,5,Cube Menu,Not Scale Invariant,Unordered,Strongly Agree,Agree,Agree,Strongly Agree
+2018/11/30 8:29:30 pm GMT,5,Cube Menu,Scale Invariant,Unordered,Agree,Agree,Neither Agree nor DIsagree,Agree
+2018/11/30 8:37:00 pm GMT,5,Linear Menu,Not Scale Invariant,Unordered,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+2018/11/30 8:40:28 pm GMT,5,Linear Menu,Not Scale Invariant,Ordered,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+2018/11/30 8:45:31 pm GMT,5,Cube Menu,Scale Invariant,Ordered,Strongly Agree,Agree,Strongly Agree,Strongly Agree
+2018/11/30 8:49:12 pm GMT,5,Cube Menu,Not Scale Invariant,Ordered,Strongly Agree,Strongly Agree,Strongly Agree,Strongly Agree
+2018/11/30 10:22:01 pm GMT,6,Cube Menu,Scale Invariant,Unordered,Disagree,Disagree,Strongly Disagree,Disagree
+2018/11/30 10:22:24 pm GMT,6,Linear Menu,Not Scale Invariant,Ordered,Agree,Agree,Strongly Agree,Strongly Agree
+2018/11/30 10:23:05 pm GMT,6,Cube Menu,Not Scale Invariant,Unordered,Disagree,Strongly Disagree,Strongly Disagree,Strongly Disagree
+2018/11/30 10:32:40 pm GMT,6,Cube Menu,Not Scale Invariant,Ordered,Agree,Agree,Agree,Agree
+2018/11/30 10:33:41 pm GMT,6,Linear Menu,Not Scale Invariant,Unordered,Disagree,Neither Agree nor DIsagree,Strongly Disagree,Disagree
+2018/11/30 10:34:16 pm GMT,6,Cube Menu,Scale Invariant,Ordered,Agree,Neither Agree nor DIsagree,Strongly Agree,Agree
